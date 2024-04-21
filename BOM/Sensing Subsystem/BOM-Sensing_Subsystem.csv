@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+BPW41N,"D4,D5,D6",SENSOR-TH_BPW41N,C142586
+1M,"R4,R5,R6",6.8kresistor,C17514
+6.8k,"R1,R2,R3",6.8kresistor,C17772
+SFH 4544,"D1,D2,D3",LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm,C2900370
+LMV321IDBVR,"U1,U2,U3",opamp,C7972
+MMBT2222A_C8512,"Q1,Q2,Q3",babytransistor,C8512
+TestPoint,TP2,TestPoint_THTPad_D3.0mm_Drill1.5mm,
+TestPoint,TP3,TestPoint_THTPad_D3.0mm_Drill1.5mm,
+TestPoint,TP1,TestPoint_THTPad_D3.0mm_Drill1.5mm,
+Conn_02x14_Odd_Even,J1,PinHeader_2x14_P2.54mm_Vertical,

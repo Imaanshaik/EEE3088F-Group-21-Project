@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,SFH 4544,LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm,121.0,-80.0,-90.0,top
+D2,SFH 4544,LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm,150.0,-83.0,180.0,top
+D3,SFH 4544,LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm,182.25,-80.0,90.0,top
+D4,BPW41N,SENSOR-TH_BPW41N,186.6675,-86.5325,90.0,top
+D5,BPW41N,SENSOR-TH_BPW41N,156.4325,-79.0325,180.0,top
+D6,BPW41N,SENSOR-TH_BPW41N,116.3325,-86.2375,-90.0,top
+J1,Conn_02x14_Odd_Even,PinHeader_2x14_P2.54mm_Vertical,149.28,-96.265,90.0,bottom
+Q1,MMBT2222A_C8512,babytransistor,122.0,-96.0,-90.0,top
+Q2,MMBT2222A_C8512,babytransistor,143.0,-89.45,180.0,top
+Q3,MMBT2222A_C8512,babytransistor,173.0,-92.5,-90.0,top
+R1,6.8k,6.8kresistor,127.0,-96.5,180.0,top
+R2,6.8k,6.8kresistor,142.5,-83.5,180.0,top
+R3,6.8k,6.8kresistor,173.0,-97.5,180.0,top
+R4,1M,6.8kresistor,181.0,-92.0,0.0,top
+R5,1M,6.8kresistor,162.0,-85.0,90.0,top
+R6,1M,6.8kresistor,124.0,-91.0,180.0,top
+U1,LMV321IDBVR,opamp,181.0,-85.5,0.0,top
+U2,LMV321IDBVR,opamp,156.5,-85.5,-90.0,top
+U3,LMV321IDBVR,opamp,124.0,-86.0,180.0,top
