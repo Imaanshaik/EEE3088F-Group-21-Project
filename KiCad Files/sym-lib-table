@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "TP4056")(type "KiCad")(uri "/Users/imaanshaik/Downloads/ul_TP4056/KiCADv6/2024-03-22_15-55-50.kicad_sym")(options "")(descr ""))
-  (lib (name "MS 22D28 Switch")(type "KiCad")(uri "/Users/imaanshaik/Downloads/MS-22D28-G020 KiCad/MS-22D28-G020.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "C:/Users/safiya_mia/Documents/Kicad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
 )
